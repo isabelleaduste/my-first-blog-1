@@ -25,7 +25,7 @@ SECRET_KEY = 'xs3*rbka#uf)d0@yhwy4_$x0aiv83e^u@k5gre-5+cdh-31#*-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'seeds.pythonanywhere.com', '127.0.0.1:8000', 'https://github.com/SKIMSEEDS/seeds-blog.git', 'karina306']
+ALLOWED_HOSTS = ['127.0.0.1', 'seeds.pythonanywhere.com', '127.0.0.1:8000', 'https://github.com/SKIMSEEDS/my-first-blog.git', 'karina306']
 
 
 # Application definition
