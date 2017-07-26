@@ -59,11 +59,6 @@ h2, h3, h4 {
     color: #000000;
 }
 
-.pol {
-     background-color: lightgrey;
-    width: 1250px;
-    padding: 75px;
-    margin: 50px;
-
-
+.comment {
+    margin: 20px 0px 20px 20px;
 }
