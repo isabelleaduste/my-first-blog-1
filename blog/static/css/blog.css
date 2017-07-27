@@ -1,19 +1,15 @@
-
 h1 a {
-    color: #7ABFA2;
-    font-family: font-family: 'Lato', sans-serif;
-    margin-left: 570px;
-    margin-top: 10px;
+    color: #FCA205;
+    font-family: 'Times';
 }
 
 body {
     padding-left: 15px;
 }
 .page-header {
-    background-color: #2D797F;
-    margin-top: -20px;
-    margin-left: -15px;
-    padding: 0px 0px 0px 1px;
+    background-color: #ff9400;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -26,10 +22,8 @@ body {
     margin-left: 40px;
 }
 
-h2, h3, h4 {
-    font-family: font-family: 'Questrial', sans-serif;
-    margin-left: 450px;
-    font-size: 50;
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
 }
 
 .date {
@@ -58,7 +52,6 @@ h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
-
 .comment {
     margin: 20px 0px 20px 20px;
 }
